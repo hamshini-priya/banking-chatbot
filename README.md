@@ -99,7 +99,7 @@ This project is an educational AI chatbot prototype. Responses are AI-generated 
 
 ## 👩‍💻 Author
 
-**Ragavi**
+**Hamshini Priya S**
 
 AI & Data Science Student
 
